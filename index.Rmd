@@ -1,0 +1,13 @@
+---
+title: The main page
+---
+***
+**some bold text**
+
+A webpage template
+
+
+
+![gagnakvörn C. Hammer](images/gagnakvorn.png)
+
+http://www.hafro.is/....
